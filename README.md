@@ -19,7 +19,7 @@ Ecological research and predictions
 Machine learning pipelines for biodiversity studies
 Sample code for loading and analyzing the dataset using pandas is provided below:
 
-python code
+# python code
 import pandas as pd
 
 # Load the dataset
